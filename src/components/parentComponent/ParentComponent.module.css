@@ -1,0 +1,7 @@
+div.parentComponent * {
+    margin: 4px;
+}
+
+div.parentComponent button {
+    padding: 4px;
+}
